@@ -62,7 +62,6 @@ body form {
     width: 600px;
 }
 form {
-    background: white;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 15px 15px 15px -1px rgba(0, 0, 0, 0.75);
